@@ -78,5 +78,5 @@ crashlytics-build.properties
 *.pdf
 !/README.md
 
-# Optional: keep demo video tracked (uncomment next line to ignore videos)
-# *.mp4
+# Demo videos (keep out of repo; link externally in README)
+*.mp4

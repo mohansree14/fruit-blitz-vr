@@ -15,9 +15,7 @@ This project was developed as a university coursework VR prototype and is inspir
 
 ## Demo Video
 
-- Download/play (from this repo): [fruit-blitz-vr - Demo.mp4](fruit-blitz-vr%20-%20Demo.mp4)
-
-Tip: If you prefer streaming playback, upload the clip to YouTube/Drive and add the public link here.
+- Watch: (add a public YouTube/Drive link here)
 
 ## Gameplay
 
