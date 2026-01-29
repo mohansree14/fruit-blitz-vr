@@ -15,7 +15,7 @@ This project was developed as a university coursework VR prototype and is inspir
 
 ## Demo Video
 
-- Watch: (add a public YouTube/Drive link here)
+- Watch: https://drive.google.com/file/d/1XOF3ttsuJdCYPZf1vPpFGe26T8O0R1tw/view?usp=sharing
 
 ## Gameplay
 
