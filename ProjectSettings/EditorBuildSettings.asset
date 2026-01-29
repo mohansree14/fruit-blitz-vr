@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Menu Scene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Sword Scene.unity
+    guid: 27ebf7ea138e6a449ad8120c5df70b68
+  - enabled: 1
+    path: Assets/Scenes/Archer Scene.unity
+    guid: b1a3f4d71f1582b40893ca3cd6db980f
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 32b44dc803fe23642a360847cdc4a2bb,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f68780d63d2240548a30cb124c915dd2,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7b04d47f6a9c0954fa9d5c20ac4a4ad3,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: b35bae9f5f3268d4fb04faab288c6ca0,
+      type: 2}
